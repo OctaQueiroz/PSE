@@ -1,0 +1,14 @@
+C:\Users\octaq\Dropbox\Materias Atuais\PID\PSE\PSE\bin\Debug\PSE.exe.config
+C:\Users\octaq\Dropbox\Materias Atuais\PID\PSE\PSE\bin\Debug\PSE.exe
+C:\Users\octaq\Dropbox\Materias Atuais\PID\PSE\PSE\bin\Debug\PSE.pdb
+C:\Users\octaq\Dropbox\Materias Atuais\PID\PSE\PSE\bin\Debug\PSE.xml
+C:\Users\octaq\Dropbox\Materias Atuais\PID\PSE\PSE\obj\Debug\PSE.vbprojAssemblyReference.cache
+C:\Users\octaq\Dropbox\Materias Atuais\PID\PSE\PSE\obj\Debug\PSE.Resources.resources
+C:\Users\octaq\Dropbox\Materias Atuais\PID\PSE\PSE\obj\Debug\PSE.vbproj.GenerateResource.cache
+C:\Users\octaq\Dropbox\Materias Atuais\PID\PSE\PSE\obj\Debug\PSE.vbproj.CoreCompileInputs.cache
+C:\Users\octaq\Dropbox\Materias Atuais\PID\PSE\PSE\obj\Debug\PSE.exe
+C:\Users\octaq\Dropbox\Materias Atuais\PID\PSE\PSE\obj\Debug\PSE.xml
+C:\Users\octaq\Dropbox\Materias Atuais\PID\PSE\PSE\obj\Debug\PSE.pdb
+C:\Users\octaq\Dropbox\Materias Atuais\PID\PSE\PSE\obj\Debug\PSE.janelaPse.resources
+C:\Users\octaq\Dropbox\Materias Atuais\PID\PSE\PSE\obj\Debug\PSE.TelaVisualizacaoHistograma.resources
+C:\Users\octaq\Dropbox\Materias Atuais\PID\PSE\PSE\obj\Debug\PSE.TelaVisualizacaoImagens.resources
